@@ -1,8 +1,14 @@
 .blog1{
 justify-items: center;
 align-content: center;
-height: 300px;
 margin: 100px;
 background-color: aquamarine;
 padding: 20px;
-}
+} 
+.blog2{
+justify-items: center;
+align-content: center;
+margin: 100px;
+background-color: violet;
+padding: 20px;
+} 
