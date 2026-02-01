@@ -12,3 +12,12 @@ margin: 100px;
 background-color: violet;
 padding: 20px;
 } 
+img{
+    width: 200px;
+    height: 200px;
+
+}
+video{
+    width: 200px;
+    height: 200px;
+}
